@@ -8,7 +8,11 @@
       {
         "endOfLine": "auto"
       }
-    ]
+    ],
+    "eqeqeq": "error",
+    "no-var": "error",
+    "prefer-const": "error",
+    "require-await": "error"
   },
   "root": true
 }
