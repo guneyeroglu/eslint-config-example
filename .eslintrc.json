@@ -11,8 +11,11 @@
     ],
     "eqeqeq": "error",
     "no-var": "error",
-    "prefer-const": "error",
-    "require-await": "error"
+    "prefer-const": "warn",
+    "require-await": "error",
+    "no-duplicate-imports": "warn",
+    "default-case": "error",
+    "no-console": "error"
   },
   "root": true
 }
